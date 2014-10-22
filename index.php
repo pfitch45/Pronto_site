@@ -33,10 +33,8 @@
       </div>
 
       <div class="jumbotron">
-        <div class="jtron-image">
         <h1>Pronto Furniture Assembly</h1>
         <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-      </div>
     </div>
 
       <div class="row marketing">
@@ -64,7 +62,7 @@
       </div>
 
       <div class="footer">
-        <p>© Company 2014</p>
+        <p>©2014 Pronto Furniture Assembly</p>
       </div>
 
     </div>
