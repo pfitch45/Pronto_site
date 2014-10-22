@@ -1,3 +1,7 @@
+/*GLOBAL STYLE*/
+
+
+/*----CSS for index.php----*/
 .jumbotron {
 	margin-top: 30px;
 	display: block;
@@ -12,6 +16,70 @@
 
 }
 
+/*----CSS for gallery.php---*/
 .featurette-divider {
 	margin-bottom: 40px;
 }
+
+/*----CSS for contact.php----*/
+
+/* Special class on .container surrounding .navbar, used for positioning it into place. 
+
+(this part borrowed from carousel.css*/
+.navbar-wrapper {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 20;
+}
+
+/* Flip around the padding for proper display in narrow viewports */
+.navbar-wrapper > .container {
+  padding-right: 0;
+  padding-left: 0;
+}
+.navbar-wrapper .navbar {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.navbar-wrapper .navbar .container {
+  width: auto;
+}
+
+.contact-text h3 {
+	color: #ffffff;
+	padding: 25px;
+	margin: 0 auto;
+	font-weight: normal;
+	font-family: Helvetica;
+}
+
+.formContainer {
+	position: center;
+	margin: 0 auto;
+    height: 625px;
+    max-width: 100%;
+    width: 1110px;
+	box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box; 
+}
+
+#contact-form input[type="text"],
+#contact-form input[type="email"],
+#contact-form input[type="tel"],
+#contact-form textarea {
+    width:75%;
+    box-shadow:inset 0 1px 2px #DDD, 0 1px 0 #FFF;
+    -webkit-box-shadow:inset 0 1px 2px #DDD, 0 1px 0 #FFF;
+    -moz-box-shadow:inset 0 1px 2px #DDD, 0 1px 0 #FFF;
+    border:1px solid #CCC;
+    background:rgba(230,223,219,0.5);
+    margin:35px;
+    padding:10px;
+    border-radius:20px;
+    outline-color: #c43800;
+    color: #000000;
+}
+

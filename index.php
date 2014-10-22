@@ -25,11 +25,10 @@
       <div class="container">
       <div class="header">
         <ul class="nav nav-pills pull-right">
-          <li class="active"><a href="index.php">Home</a></li>
           <li><a href="gallery.php">Gallery</a></li>
           <li><a href="contact.php">Contact</a></li>
         </ul>
-        <h3 class="text-muted">510-772-7152</h3>
+        <h3 class="text-muted">Pronto Furniture Assembly // 510-772-7152</h3>
       </div>
 
       <div class="jumbotron">
