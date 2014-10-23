@@ -1,7 +1,8 @@
 <?php
 
 //Oriignally I found this code online.  It worked OK.  Special thanks to John for making it work even better.
- 
+Error_reporting(E_ALL); Ini_set('display_errors', true);
+
 if(isset($_POST['email'])) {
  
      
