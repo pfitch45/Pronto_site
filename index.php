@@ -28,7 +28,7 @@
           <li><a href="gallery.php">Gallery</a></li>
           <li><a href="contact.php">Contact</a></li>
         </ul>
-        <h3 class="text-muted">Pronto Furniture Assembly // 510-772-7152</h3>
+        <h1 class="text-muted">510-772-7152</h3>
       </div>
 
       <div class="jumbotron">

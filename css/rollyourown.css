@@ -12,11 +12,17 @@
     background-image: url(../images/M3.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
-	vertical-align: center;
-	position: center;
+	padding: 0;
+  margin: 0 auto;
 
 }
 
+.jumbotron h1 {
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 60px;
+  margin: 0px;
+}
 /*----CSS for gallery.php---*/
 .featurette-divider {
 	margin-bottom: 40px;
@@ -57,11 +63,14 @@
 }
 
 .formContainer {
-	position: center;
-	margin: 0 auto;
-    height: 625px;
-    max-width: 100%;
-    width: 1110px;
+  margin-bottom: 150px;
+  margin-top: 150px;
+  margin-right: 250px;
+  margin-left: 250px;
+  padding: 30px;
+  height: 625px;
+  max-width: 100%;
+  width: 1110px;
 	box-sizing:border-box;
     -webkit-box-sizing:border-box;
     -moz-box-sizing:border-box; 
