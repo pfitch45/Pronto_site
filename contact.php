@@ -46,6 +46,7 @@
               <ul class="nav navbar-nav">
                 <li><a href="gallery.php">Gallery</a></li>
                 <li><a href="contact.php">Contact</a></li>
+                <li><a href="http://www.yelp.com/biz/pronto-furniture-assembly-oakland">Yelp</a></li>
               </ul>
             </div>
           </div>
