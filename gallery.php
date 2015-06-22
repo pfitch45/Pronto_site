@@ -26,7 +26,13 @@
 
     <!-- Custom styles for this template -->
     <link href="css/carousel.css" rel="stylesheet">
-  <style id="holderjs-style" type="text/css"></style></head>
+  <style id="holderjs-style" type="text/css"></style>
+  <style type="text/css">
+    body {
+      padding: 0;
+    }
+  </style>
+</head>
 
 
 
@@ -84,7 +90,7 @@
           </div>
         </div>
         <div class="item active">
-          <img src="images/M3.jpg" alt="Second slide">
+          <img src="images/IMG_0556.jpg" alt="Second slide">
           <div class="container">
           </div>
         </div>
@@ -99,7 +105,7 @@
           </div>
         </div>
         <div class="item">
-          <img src="images/.jpg" alt="Third slide">
+          <img src="images/IMG_0555.jpg" alt="Fourth slide">
           <div class="container">
             <div class="carousel-caption">
               <h1>One more for good measure.</h1>
