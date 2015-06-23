@@ -28,9 +28,21 @@
   position: relative;
   top: 110px;
 }
-/*----CSS for gallery.php---*/
+/*----CSS for featurettes---*/
+
+.container-marketing{
+  margin: 0 auto;
+} 
 .featurette-divider {
 	margin-bottom: 40px;
+}
+
+.featurette-subtitle {
+  color: rgb(90,90,90);
+  font-size: 21px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  margin-bottom: 20px;
 }
 
 /*----CSS for contact.php----*/
