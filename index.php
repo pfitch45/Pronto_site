@@ -30,7 +30,6 @@
       <div class="container">
       <div class="header">
         <ul class="nav nav-pills pull-right">
-          <li><a href="gallery.php">Gallery</a></li>
           <li><a href="form.php">Contact</a></li>
           <li><a href="http://www.yelp.com/biz/pronto-furniture-assembly-oakland">Yelp</a></li>
         </ul>
@@ -167,11 +166,11 @@ To get specific pricing information, please <a href="form.php">contact us</a> or
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It'll blow your mind.</span></h2>
-          <p class="featurette-subtitle">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <h2 class="featurette-heading">The Bay Area experts in <span class="text-muted">furniture assembly.</span></h2>
+          <p class="featurette-subtitle">We have many years of collective experience assembling RTA (ready-to-assemble) and regular furniture from major brands. These include  Ikea, West Elm, Staples, Sauder, Coaster, Overstock.com, CB2, Crate and Barrel, South Shore, The Container Store, just to name a few.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="500x500" src="images/sample3.jpg">
+          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="500x500" src="images/img285a.jpg">
         </div>
       </div>
 
@@ -179,23 +178,25 @@ To get specific pricing information, please <a href="form.php">contact us</a> or
 
       <div class="row featurette">
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="500x500" src="images/sample3.jpg">
+          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="500x500" src="images/tvmount.jpg">
         </div>
         <div class="col-md-7">
-          <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-          <p class="featurette-subtitle">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <h2 class="featurette-heading">And in installation and mounting. <span class="text-muted">For your home or office
+            .</span></h2>
+          <p class="featurette-subtitle">We install TV mounts, whiteboards, picture frames, shelves, to pretty much anything. Pronto also has tons of experience working in and around Bay Area office environments, especially tech offices.</p>
         </div>
       </div>
+
 
      <hr class="featurette-divider">
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-          <p class="featurette-subtitle">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <h2 class="featurette-heading">Our prices are competitive. <span class="text-muted">And flat.</span></h2>
+          <p class="featurette-subtitle">We price our services competitively because we appreciate your business. Pronto does not charge by the hour, rather by the piece. Our minimum service fee is $59.99.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="500x500" src="images/sample3.jpg">
+          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="500x500" src="images/IMG_0558.jpg">
         </div>
       </div>
 
@@ -203,7 +204,7 @@ To get specific pricing information, please <a href="form.php">contact us</a> or
 
       <div class="row featurette">
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="500x500" src="images/sample3.jpg">
+          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="500x500" src="images/IMG_0562.jpg">
         </div>
         <div class="col-md-7">
           <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
