@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 <html lang="en"><head>
     <meta charset="utf-8">
+    <title>Pronto: Contact</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Contact form for Pronto Furniture Assembly">
+    <meta property="og:title" content="Pronto: Contact" />
+    <meta property="og:description" content="Contact form for Pronto Furniture Assembly" />
+    <meta property="og:url" content="http://www.pronto-assembly.com/form.php" />
+    <meta property="og:site_name" content="Pronto Furniture Assembly" />
+    <meta property="og:locale" content="en_US" />
+    
+
     <link rel="icon" type="image/ico" href="images/favicon.ico">
 
-    <title>Pronto: Contact</title>
-
-    <!-- Bootstrap core CSS -->
+    <!-- Bootstrap and CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    
-    <!-- Custom styles for this template -->
     <link href="css/rollyourown.css" rel="stylesheet">
 
-    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
-    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -44,7 +44,6 @@
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li><a href="gallery.php">Gallery</a></li>
                 <li><a href="form.php">Contact</a></li>
                 <li><a href="http://www.yelp.com/biz/pronto-furniture-assembly-oakland">Yelp</a></li>
               </ul>
@@ -57,7 +56,7 @@
 
      
 <div class="container"><div class="formContainer">
-  <h3>Use this form for your questions and inquiries</h3>
+  <h3>Use this form for any questions or inquiries</h3>
 <form class="form-horizontal" role="form" method="post" action="formScript.php">
     <div class="form-group">
         <label for="name" class="col-sm-2 control-label">Name</label>
