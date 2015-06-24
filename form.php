@@ -44,7 +44,7 @@
             </div>
             <div class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li><a href="form.php">Contact</a></li>
+                <li><a href="form.php">Contact Us</a></li>
                 <li><a href="http://www.yelp.com/biz/pronto-furniture-assembly-oakland">Yelp</a></li>
               </ul>
             </div>
@@ -98,7 +98,7 @@
 </div>
 <footer>
         <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>©2014 Pronto Furniture Assembly</p>
+        <p>©2015 Pronto Furniture Assembly</p>
       </footer>
 </div>
 

@@ -108,7 +108,7 @@
         <p class="pull-right"><a href="#">Back to top</a></p>
         <p class="pull-right"><a href="form.php">Contact Us&nbsp&nbsp&nbsp</a></p>
       
-        <p>©2014 Pronto Furniture Assembly</p>
+        <p>©2015 Pronto Furniture Assembly</p>
       </footer>
     </div>
   </div>  
