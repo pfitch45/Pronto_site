@@ -8,10 +8,10 @@ if(isset($_POST['email'])) {
  
     // EDIT THE 2 LINES BELOW AS REQUIRED
  
-    $email_to = "pfitch45@gmail.com";
+    $email_to = "prontoassembly@live.com";
  
 
-    $email_subject = "Mensaje de Pronto";
+    $email_subject = "Mensaje del sitio Pronto";
  
      
  
