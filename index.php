@@ -69,7 +69,7 @@
 
       <div class="row featurette">
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="500x500" src="images/image78.jpg">
+          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="500x500" src="images/img78.jpg">
         </div>
         <div class="col-md-7">
           <h2 class="featurette-heading">And in installation. <span class="text-muted">For your home or office.</span></h2>
