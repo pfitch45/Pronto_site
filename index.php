@@ -85,7 +85,7 @@
           <p class="featurette-subtitle">We price our services competitively because we appreciate your business. Pronto does not charge by the hour, rather by the piece. Our minimum service fee is $59.99.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="500x500" src="images/IMG_0558.jpg">
+          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="500x500" src="images/img558c.jpg">
         </div>
       </div>
 
@@ -93,7 +93,7 @@
 
       <div class="row featurette">
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="500x500" src="images/IMG_0562.jpg">
+          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="500x500" src="images/img562d.jpg">
         </div>
         <div class="col-md-7">
           <h2 class="featurette-heading">Take advantage of our same-day service. <span class="text-muted">For the whole region too.</span></h2>
