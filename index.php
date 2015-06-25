@@ -69,11 +69,11 @@
 
       <div class="row featurette">
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="500x500" src="images/tvmount.jpg">
+          <img class="featurette-image img-responsive" data-src="holder.js/500x500/auto" alt="500x500" src="images/image78.jpg">
         </div>
         <div class="col-md-7">
           <h2 class="featurette-heading">And in installation. <span class="text-muted">For your home or office.</span></h2>
-          <p class="featurette-subtitle">We install TV mounts, whiteboards, picture frames, shelves, to pretty much anything. Pronto also has tons of experience working in and around Bay Area office environments, especially tech offices.</p>
+          <p class="featurette-subtitle">We install whiteboards, picture frames, shelves--pretty much anything. Pronto also has tons of experience working in and around Bay Area office environments, especially tech offices.</p>
         </div>
       </div>
 
