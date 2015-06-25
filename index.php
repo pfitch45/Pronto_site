@@ -36,7 +36,7 @@
       <div class="header">
         <ul class="nav nav-pills pull-right">
           <li><a href="form.php">Contact Us</a></li>
-          <li><a href="http://www.yelp.com/biz/pronto-furniture-assembly-oakland">Yelp</a></li>
+          <li><a href="http://www.yelp.com/biz/pronto-furniture-assembly-oakland"target="_blank">Yelp</a></li>
         </ul>
         <h1 class="text-muted">510.772.7152</h3>
       </div>
